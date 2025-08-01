@@ -14,7 +14,7 @@
 ---
 
 ### ⚖️ Wins vs. Power Rating (BARTHAG)
-![Wins vs BARTHAG](visualizations/output (2).png)  
+![Wins vs BARTHAG](visualizations/output (2).png)  k
 *Higher wins generally correlate with stronger power ratings, though some efficient teams underperformed in win count.*
 
 ---
